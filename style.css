@@ -1,0 +1,27 @@
+.section-head-text-310AF5 {
+    /* width: 300px; */
+    background: linear-gradient(123.77deg, #c3e62a 0%, rgba(89, 89, 89, 0) 25%), #000000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* text-fill-color: transparent; */
+}
+
+.fa-arrow-right {
+    /* display: flex; */
+    font-size: 30px;
+    text-align: center;
+    color: white !important;  
+}
+
+.section-head-text-48da91 {
+    background: linear-gradient(83.77deg, #48da91 0%, rgba(89, 89, 89, 0) 25%), #000000;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.bg-color{
+    background-color: rgb(195, 221, 213);
+    border-radius: 5px;
+    padding: 10px;
+}
